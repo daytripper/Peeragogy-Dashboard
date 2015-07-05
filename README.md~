@@ -1,6 +1,9 @@
-# Peeragogy Interweb Dashboard 
 
+ 
+# Ran across this resource from the connected learning community.
+1.Stream media locally from your computer or the web to other devices on your local network on nodes.
 ![alt text](https://cloud.githubusercontent.com/assets/3668236/8311012/c1e3dfd8-19d3-11e5-9c7e-81c7c1c5033d.jpg)
+
 
 ## Why: 
 Create a useful enviroment for peeragogues and a practical kit tool for newcomers.
@@ -27,13 +30,14 @@ And Voilà!! Everything you need on a single page.
 5. **Bookcase library**
 6. **10 Handbook translations**
 7. **Flip Handbook**
+8. **Task & project in Action
 
 If you want directly manage the repository from your machine.
 ```
- $ git clone https://github.com/FTG-003/Peeragogy-Dashboard.git
+ $https://github.com/Peeragogy/Peeragogy-Dashboard.git
 
  ```
- Pull from `upstream` frequently to keep your local copy up to date:
+ Pull from `this repository` frequently to keep your local copy up to date:
  
  ```
  $ git pull 
@@ -45,6 +49,6 @@ Please code issues for any bugs you find or features you'd like to see. And if y
 
 ## Support
  
-Need a hand with something? Send us an email to [contact@FTG-003.io](mailto:contact@FTG-003) and I'll get back to you right away!
+Need a hand with something? Send us an email to [fabrizio.terzi@gmail.com](mailto:contact@FTG-003) and I'll get back to you right away!
 For technical questions, use the [`FTG-003-io`](mailto:siar@member.fsf.org).
 

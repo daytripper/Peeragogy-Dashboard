@@ -40,13 +40,11 @@
         <img class="img-circle" src="assets/img/user-group.jpg" width="100" height="100" alt="img">
         <p class="no-margin"><strong>Peeragogy Project</strong></p>
         <p><small><i class="fa fa-globe"></i> Learning with peers</small></p>
-        <p><a href="mailto:#" class="btn btn-outline btn-primary">Contact us!</a></p>
+        <p><a href="mailto:https://groups.google.com/forum/#!forum/peeragogy" class="btn btn-outline btn-primary">Contact us!</a></p>
       </div><!-- /.sidebar-subheader -->
       <div class="sidebar-subheader">
-        <form role="search">
-          <input type="text" class="form-control" placeholder="Search">
-        </form>
       </div><!-- /.sidebar-subheader -->
+      
      <!-- Menu -->
       <ul class="sidebar-nav">
         <li class="active">
@@ -103,14 +101,15 @@
         </li>
          <li class="header"><i class="fa fa-circle-o text-info"></i> Info</li>
          <li>
-          <a href="info.html">
+          <a href="faq.html">
             <i class="icon-info"></i>
-          How to stay tuned
+            FAQs
           </a>
           </a>
       </ul><!-- /.sidebar-nav -->
     </aside><!-- /.sidebar -->
     <!--/. Menu -->
+    
       <!-- Page content -->
        <!-- Message -->
     <aside class="dashboard-sidebar sidebar-secondary">
@@ -126,7 +125,7 @@
               <div class="media-body">
                 <span class="media-heading">Fabrizio Terzi:</span>
                 Inspire on
-                <span class="media-meta"><i class="fa fa-clock-o"></i>BergamoHub Italy</span>
+                <span class="media-meta"><i class="fa fa-clock-o"></i> BergamoHub Italy</span>
               </div><!-- /.media-body -->
             </div><!-- /.media -->
           </a>
@@ -143,7 +142,7 @@
             <div class="col-xs-6 text-center">
               <a class="navbar-brand" href="index.html#link">
                 <!-- <img class="brand-logo" alt="Logo" src="assets/img/1logo-white.png"> -->
-                <span class="brand-name">Interweb Project Dashboard</span>
+                <span class="brand-name">Peeragogy Dashboard</span>
               </a>
             </div><!-- /.col -->
             <div class="col-xs-3">
@@ -160,8 +159,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="padding-md">
-                <h1><span class="text-white">Connected Learning...</span></h1>
-                <a href="http://ftg-003.github.io/Peeragogy-Dashboard/"target="_blank" class="btn btn-white btn-outline">Make it easy!</a>
+                <h1><span class="text-white"></span></h1>
               </div><!-- /.padding -->
             </div><!-- /.col -->
           </div><!-- /.row -->
@@ -175,11 +173,11 @@
           </div><!-- /.row -->
         </div><!-- /.padding -->
       </section>
-      <section class="section-xs bg-info">
+      <section class="section-xs bg-success">
         <div class="container">
           <div class="row">
             <div class="col-md-12">
-              <strong><i class="fa fa-fw fa-wrench"></i> Status:</strong> V1.0.4 "Charlotte" 
+              <strong><i class="fa fa-fw fa-wrench"></i> Status:</strong> V1.1.1 "Go Charles Go" 
             </div><!-- /.col -->
           </div><!-- /.row -->
         </div><!-- /.container -->
@@ -194,8 +192,9 @@
                  <li><a href="https://www.overleaf.com/"target="_blank">Write LaTex</a></li>
                   <li><a href="http://www.twiddla.com/2192049"target="_blank">White board</a></li>
                     <li><a href="http://drichard.org/mindmaps/"target="_blank">Mindmaps</a></li>
-                    <li><a href="http://us21.chatzy.com/56042237705433"target="_blank">Open Chat</a></li>
+                    <li><a href="http://us21.chatzy.com/56042237705433"target="_blank">Open Chat</a></li>               
                      <li><a href="https://plus.google.com/hangouts/_/event/cd2bmj7laemh7i9brbhover75h8?authuser=0&hl=it"target="_blank">Open Hangout Channel</a></li> 
+                     <li><a href="app.html"target="_blank">Flipped Classroom Resources</a></li>
                 </ol>
             </div><!-- /.col -->
           </div><!-- /.row -->
@@ -215,11 +214,13 @@
                 <li><a href="index.html#link" data-filter=".para">Paragogy</a></li>
                 <li><a href="index.html#link" data-filter=".git">Repository</a></li>
                 <li><a href="index.html#link" data-filter=".social">Social</a></li>
+                <li><a href="index.html#link" data-filter=".wrap">Wrapper</a></li>
               </ul><!-- /#filters.tags -->
             </div><!-- /.col -->
           </div><!-- /.row -->
           <br
-          <div class="row">
+          
+         <div class="row">
             <div class="isotope-container">
               <div class="col-md-3 isotope-item doc">
                 <div class="widget">
@@ -233,9 +234,10 @@
                     </div><!-- /.overlay-container -->
                   </div><!-- /.thumbnail -->
                   <h5 class="no-margin">Peeragogy Project</h5>
-                  <a href="https://drive.google.com/drive/u/0/folders/0B3cDsp8xYZafLTh1dmJybG9PcFk"target="_blank"><small>Google Drive</small></a>
+                  <a href="http://is.gd/peeragogydrive "target="_blank"><small>Google Drive</small></a>
                 </div><!-- /.widget -->
-              </div><!-- /.col -->
+              </div>          
+              <!-- /.col -->
               <div class="col-md-3 isotope-item git">
                 <div class="widget">
                   <div class="thumbnail">
@@ -262,8 +264,8 @@
                       </div><!-- /.overlay-content -->
                     </div><!-- /.overlay-container -->
                   </div><!-- /.thumbnail -->
-                  <h5 class="no-margin">Paragogy Wiki</h5>
-                 <a href="http://paragogy.net"target="_blank"><small> The starting point</small></a>
+                  <h5 class="no-margin">Paragogy.net Wiki</h5>
+                 <a href="http://paragogy.net"target="_blank"><small> Good starting point</small></a>
                 </div><!-- /.widget -->
               </div><!-- /.col -->
               <div class="col-md-3 isotope-item social">
@@ -296,19 +298,19 @@
                  <a href="http://commonsabundance.net/docs/help-build-the-peeragogy-accelerator-work-in-progress/"target="_blank"><small>Commons Abundance Network</small></a>
                 </div><!-- /.widget -->
               </div><!-- /.col -->
-              <div class="col-md-3 isotope-item incubation">
+              <div class="col-md-3 isotope-item wrap">
                 <div class="widget">
                   <div class="thumbnail">
                     <div class="overlay-container">
                       <img src="assets/img/6-img-400x400.jpg" alt="img">
                       <div class="overlay-content overlay-animated">
-                        <h3>Hire me!</h3>
-                        <p>We are ready to offer you our best members skill and talents in our #PLN</p>
+                        <h3> Peeragogy Wrapping !</h3>
+                        <p>Under construction</p>
                       </div><!-- /.overlay-content -->
                     </div><!-- /.overlay-container -->
                   </div><!-- /.thumbnail -->
-                  <h5 class="no-margin">Freelance opportunities</h5>
-                  <small>Under construction</small>
+                  <h5 class="no-margin"> Monthly Wrap </h5>
+                  <a href="wrap.html"> <small>Timeline wrap</small></a>
                 </div><!-- /.widget -->
               </div><!-- /.col -->
               <div class="col-md-3 isotope-item advisory">
@@ -322,8 +324,8 @@
                       </div><!-- /.overlay-content -->
                     </div><!-- /.overlay-container -->
                   </div><!-- /.thumbnail -->
-                  <h5 class="no-margin">Peeragogy assistance</h5>
-                  <small>Under construction</small>
+                  <h5 class="no-margin">How to get started</h5>
+                  <a href="info.html"> <small>Quickstart guide</small></a>
                 </div><!-- /.widget -->
               </div><!-- /.col -->
               <div class="col-md-3 isotope-item social">
@@ -338,7 +340,7 @@
                     </div><!-- /.overlay-container -->
                   </div><!-- /.thumbnail -->
                   <h5 class="no-margin">YouTube Channel</h5>
-                <a href="https://www.youtube.com/channel/UCAQ5TpUxKrsVfWtIHMaDh5A"target="_blank"><small>Watch us</small></a>
+                <a href="https://www.youtube.com/channel/UCAQ5TpUxKrsVfWtIHMaDh5A"target="_blank"><small>Watch our playlist</small></a>
                 </div><!-- /.widget -->
               </div><!-- /.col -->
             </div><!-- /.isotope-container -->
@@ -347,13 +349,24 @@
       </section>
      <!-- Message /.end -->
     </main><!-- /.page-content -->
-  </div><!-- /.dashboard-wrapper -->
+  <!-- /.dashboard-wrapper -->
+</div>
+   
  <footer class="main-footer">
+    <div class="borders div">
   <div class="pull-right hidden-xs">
-    <b>Version</b>1.0.4 "Charlotte"
+
+    <b>Version 1.1.1</b> "Go Charles Go"
       </div>
-       <small> Created by<a href="https://plus.google.com/u/0/+FabrizioTerzi"> Fabrizio Terzi</a></small></p>
-         </footer>
+       <small> Designed by<a href="https://it.linkedin.com/in/bergamohub001" target="_blank"> Fabrizio Terzi</a></small></p>
+       <!--AudioFoot-->
+        <audio  controls="controls" hidden="hidden" onloadeddata="var audioPlayer = this; setTimeout(function() { audioPlayer.play(); }, 1000)" >
+         <source src="http://soundjax.com/reddo/79382%5Ewelcome.mp3" type="audio/ogg"></source>
+         <source src="http://soundjax.com/reddo/79382%5Ewelcome.mp3" type="audio/mpeg"></source>
+        </audio>
+       <!--./AudioFoot-->
+       </div>
+ </footer>
     
   <!-- last but not least the javascript -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
