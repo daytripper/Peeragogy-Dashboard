@@ -14,5 +14,5 @@ The interweb peeragogical learning interface
 
 ## Support
  
-Need a hand with something? Send us an email to [@member.fsf.org](mailto:siar@member.fsf.org) and I'll get back to you right away!
+Need a hand with something? Send us an email to [siar@member.fsf.org](mailto:siar@member.fsf.org) and I'll get back to you right away!
 For technical questions, enjoy your learning by doing 
