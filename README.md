@@ -10,7 +10,7 @@ Designing a new type of learning environment.
 The interweb peeragogical learning interface
 
 ## Enjoy it:
-![Peeragogy Dashboard ;)](http://polr.me/2gs)
+[Peeragogy Dashboard ;)](http://polr.me/2gs)
 
 ## Support
  
