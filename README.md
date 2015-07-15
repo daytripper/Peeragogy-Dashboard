@@ -12,6 +12,8 @@ The interweb peeragogical learning interface
 ## Enjoy it:
 [Peeragogy Dashboard ;)](http://polr.me/2gs)
 
+if you want to have full access to all the functionality of the dashboard, the best way is to *download the .zip folder* located to the right of the screen and lunch the *index.html* file using *Firefox browser*. Chrome it might have some problems handling `<iframe>`on page.
+
 ## Support
  
 Need a hand with something? Send us an email to [siar@member.fsf.org](mailto:siar@member.fsf.org) and I'll get back to you right away!
