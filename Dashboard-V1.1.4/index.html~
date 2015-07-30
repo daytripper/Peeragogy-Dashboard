@@ -93,7 +93,7 @@
             Collaborate
           </a>
           <ul class="sidebar-nav-dropdown collapse" id="submenu-1">
-            <li class="active"><a href="publishing.html"><i class="fa fa-fw fa-angle-right"></i> Contents</a></li>
+            <li class="active"><a href="publishing.html"><i class="fa fa-fw fa-angle-right"></i> index</a></li>
             <li><a href="Collaborate/wraiting/draft.html"><i class="fa fa-fw fa-angle-right"></i> Draft</a></li>
             <li><a href="publishing.html#link"><i class="fa fa-fw fa-angle-right"></i> Propose</a></li>
           </ul>
