@@ -199,10 +199,20 @@
                       </td>
                     </tr>
                     <tr>
-                     <tr></tr>
+                     <tr>
+                      <td>3</td>
+                      <td>My Peeragogy App</td>
+                      <th><a href="training/MIT-Apps/1-MIT.html"target="_blank">Open Class</a></th>
+                      <td>
+                        <div class="progress no-margin">
+                          <div class="progress-bar progress-bar-warning progress-bar-striped active " role="progressbar"  aria-valuenow="value" aria-valuemin="0" aria-valuemax="100" style="width: 23%">
+                            <span class="sr-only">Progress</span>
+                          </div><!-- /.progress-bar -->
+                        </div><!-- /.progress -->
+                      </td>
                     </tr>
                     <tr>
-                      <td>3</td>
+                      <td>4</td>
                       <h3><td><span class="label label-danger">G+ Community Engagement</span></td></h3>
                       <th></th>
                       <td>
