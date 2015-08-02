@@ -91,17 +91,17 @@
           </a>
         </li>
          <li class="header"><i class="fa fa-circle-o text-danger"></i> Publishing</li>
-          <li>
-          <a data-toggle="collapse" data-target="#submenu-1">
+         <li>
+          <a href="publishing.html">
             <i class="icon-note"></i>
             Collaborate
           </a>
-          <ul class="sidebar-nav-dropdown collapse" id="submenu-1">
-            <li class="active"><a href="publishing.html"><i class="fa fa-fw fa-angle-right"></i> Index</a></li>
-            <li><a href="publishing.html#link"><i class="fa fa-fw fa-angle-right"></i> Draft</a></li>
-            <li><a href="publishing.html#link"><i class="fa fa-fw fa-angle-right"></i> Review</a></li>
-            <li><a href="publishing.html#link"><i class="fa fa-fw fa-angle-right"></i> Propose</a></li>
-          </ul>
+        </li>
+        <li>
+         <a href="Collaborate/wraiting/draft.html">
+            <i class="icon-fire"></i>
+            Draft
+          </a>
         </li>
           <li class="header"><i class="fa fa-circle-o text-success"></i> Library</li>
            <li>
@@ -176,11 +176,11 @@
                 <strong><i class="fa fa-fw fa-check-circle-o"></i> Success:</strong> All your changes have been saved!
               </div><!-- /.alert -->
               <div class="form-group">
-                <label for="post-title">Chapter Title:</label>
+                <label for="post-title">Article Title:</label>
                 <input type="text" class="form-control" id="post-title" placeholder="Title">
               </div>
               <div class="form-group">
-                <label for="post-sub-title">Authors:</label>
+                <label for="post-sub-title">Co-editors:</label>
                 <input type="text" class="form-control" id="post-sub-title" placeholder="Team list">
               </div>
               <div class="form-group">
