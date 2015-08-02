@@ -8,15 +8,15 @@ Create a useful enviroment for peeragogues and a practical tool kit for newcomer
 ## How: 
 Designing a new type of learning environment. 
 ##What: 
-The interweb peeragogical learning interface
+The Peeragogical Dashboard
 
 ## Enjoy it:
-:link:[Peeragogy Dashboard ;)](https://htmlpreview.github.io/?https://github.com/Peeragogy/Peeragogy-Dashboard/blob/master/Dashboard-V1.1.4/index.html)
+:link:[Peeragogy Dashboard](https://htmlpreview.github.io/?https://github.com/Peeragogy/Peeragogy-Dashboard/blob/master/Dashboard-V1.1.4/index.html)
 
 if you want to have full access to all the functionality of the dashboard, the best way is to *download the .zip folder* located to the right of the screen and lunch the *index.html* file using *Firefox browser*. Chrome it might have some problems handling `<iframe>`on page.
 
 ## Support
  
-Need a hand with something? Send us an email to [siar@member.fsf.org](mailto:siar@member.fsf.org) and I'll get back to you right away!
+Need a hand with something? Send us an email to :envelope: [siar@member.fsf.org](mailto:siar@member.fsf.org) and I'll get back to you right away!
 For technical questions, enjoy your learning by doing! 
 
