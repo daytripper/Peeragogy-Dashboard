@@ -19,5 +19,5 @@ if you want to have full access to all the functionality of the dashboard, the b
 ## Support
  
 Need a hand with something? Send us an email to :envelope: [siar@member.fsf.org](mailto:siar@member.fsf.org) and I'll get back to you right away!
-For technical questions, enjoy your learning by doing! 
+
 
