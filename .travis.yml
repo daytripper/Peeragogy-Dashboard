@@ -1,3 +1,7 @@
+name: Peeragogy dashboard
+markdown: redcarpet
+pygments: true
+baseurl:Peeragogy/Peeragogy-Dashboard
 language: go
 sudo: false
 html:
@@ -6,10 +10,6 @@ html:
 - 1.1.3
 - 1.1.4
 - 1.1.5
-install:
-  - export GOPATH="${https://travis-ci.org/Peeragogy/Peeragogy-Dashboard.svg?branch=master}/Godeps/_workspace:$GOPATH"
-  - export PATH="${https://travis-ci.org/Peeragogy/Peeragogy-Dashboard.svg?branch=master/_workspace/bin:$PATH"
-  
 exclude: [vendor]
 
 # uncomment this line if your project needs to run something other than `rake`:
