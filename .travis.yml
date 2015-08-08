@@ -1,16 +1,26 @@
-name: Peeragogy dashboard
-markdown: redcarpet
-pygments: true
-baseurl:Peeragogy/Peeragogy-Dashboard
-language: go
-sudo: false
-html:
-- 1.1.1
-- 1.1.2
-- 1.1.3
-- 1.1.4
-- 1.1.5
-exclude: [vendor]
+# Site settings
+title: Peeragogy Dashboard
+description: "Peeragogy Dashboard web interface"
+url: 
+author:
+  name: "Fabrizio Terzi"
+  email: "siar.member@fsf.org"
 
-# uncomment this line if your project needs to run something other than `rake`:
-# script: bundle exec rspec spec
+# Build settings
+baseurl: /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "code"
+    values:
+      layout: "html"
+
+# Custom variables
+version: "1.1.5"
